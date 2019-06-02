@@ -1,0 +1,12 @@
+body{
+  background: pink;
+  color: blue;
+}
+.img{
+  background-image: url(../images/tu.jpg);
+  width: 400px;
+  height: 600px;
+  -webkit-transform: rotate(30deg);
+          transform: rotate(30deg);
+  box-shadow: 10px 10px 10px;
+}
